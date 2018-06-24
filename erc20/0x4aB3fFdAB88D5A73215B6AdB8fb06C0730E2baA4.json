@@ -1,0 +1,20 @@
+{
+  "symbol": "TUBE",
+  "address": "0x4aB3fFdAB88D5A73215B6AdB8fb06C0730E2baA4",
+  "overview":{
+        "en": "Tube expects to build a blockchain public chain that can really transform the content industry, provide positive and negative value flow to the industry and greatly save Internet energy resource.",
+        "zh": "Tube期望建立一條真正能夠改造內容行業，為行業提供正反向積極的價值流動，並極大節約互聯網能源資源的區塊鏈"
+  },
+  "email": "blockbuilder010@outlook.com",
+  "website": "http://tubevip.io/",
+  "whitepaper": "http://tubevip.io/files/white-paper.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-03-20",
+  "initial_price":{
+        "USD":"0.0035 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/Tubeblockbuild1",
+    "telegram": "https://t.me/TubeOfficial",
+  }
+}
